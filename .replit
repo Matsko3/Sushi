@@ -1,2 +1,0 @@
-git stlanguage = "nodejs"
-run = "node index.js"
